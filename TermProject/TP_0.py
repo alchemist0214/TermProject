@@ -5,7 +5,7 @@ from cmu_112_graphics import *
 import math,pandas,numpy,scipy,copy,string,random
 import tkinter as tk
 #########################################
-
+# version 1
 ## SOME 2-D surivival game REMASTERED ##
 
 # Let's call it, I don't know, how about Alien: Term Project
