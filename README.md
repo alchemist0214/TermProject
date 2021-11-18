@@ -1,2 +1,3 @@
 # TermProject
-WOOO
+
+This is the repo for TermProject
